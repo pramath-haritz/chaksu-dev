@@ -1,3 +1,3 @@
 ```
-pip install git+https://github.com/pramath-haritz/chaksu-demo.git
+pip install git+https://github.com/pramath-haritz/chaksu-dev.git
 ```
